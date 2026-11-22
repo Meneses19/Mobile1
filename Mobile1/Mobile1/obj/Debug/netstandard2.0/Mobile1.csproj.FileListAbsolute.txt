@@ -1,0 +1,15 @@
+Z:\LP\Projetos\Mobile1\Mobile1\Mobile1\bin\Debug\netstandard2.0\Mobile1.deps.json
+Z:\LP\Projetos\Mobile1\Mobile1\Mobile1\bin\Debug\netstandard2.0\Mobile1.dll
+Z:\LP\Projetos\Mobile1\Mobile1\Mobile1\bin\Debug\netstandard2.0\ref\Mobile1.dll
+Z:\LP\Projetos\Mobile1\Mobile1\Mobile1\bin\Debug\netstandard2.0\Mobile1.pdb
+Z:\LP\Projetos\Mobile1\Mobile1\Mobile1\obj\Debug\netstandard2.0\Mobile1.csproj.AssemblyReference.cache
+Z:\LP\Projetos\Mobile1\Mobile1\Mobile1\obj\Debug\netstandard2.0\Mobile1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\LP\Projetos\Mobile1\Mobile1\Mobile1\obj\Debug\netstandard2.0\App.xaml.g.cs
+Z:\LP\Projetos\Mobile1\Mobile1\Mobile1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+Z:\LP\Projetos\Mobile1\Mobile1\Mobile1\obj\Debug\netstandard2.0\Mobile1.AssemblyInfoInputs.cache
+Z:\LP\Projetos\Mobile1\Mobile1\Mobile1\obj\Debug\netstandard2.0\Mobile1.AssemblyInfo.cs
+Z:\LP\Projetos\Mobile1\Mobile1\Mobile1\obj\Debug\netstandard2.0\Mobile1.csproj.CoreCompileInputs.cache
+Z:\LP\Projetos\Mobile1\Mobile1\Mobile1\obj\Debug\netstandard2.0\XamlC.stamp
+Z:\LP\Projetos\Mobile1\Mobile1\Mobile1\obj\Debug\netstandard2.0\Mobile1.dll
+Z:\LP\Projetos\Mobile1\Mobile1\Mobile1\obj\Debug\netstandard2.0\ref\Mobile1.dll
+Z:\LP\Projetos\Mobile1\Mobile1\Mobile1\obj\Debug\netstandard2.0\Mobile1.pdb
